@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="Header">Convin Frontend Assi</div>
+        <div className="Header">Convin Frontend Assignment</div>
 
         <Board />
       </div>
